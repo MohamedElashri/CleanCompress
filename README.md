@@ -1,6 +1,4 @@
-# CleanCompress
-
-![CleanCompress Icon](icon.png)
+# <img src="icon.png" alt="CleanCompress Icon" width="30" height="30"> CleanCompress
 
 CleanCompress is a macOS app that allows users to easily compress files and folders into a ZIP archive and clean out unwanted macOS-specific files such as `__MACOSX` and `.DS_Store`. This app provides a simple interface for managing ZIP files directly from the Finder toolbar.
 
